@@ -20,9 +20,9 @@
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
 </head>
 <body>
-    <div id="app">
-        <nav class="navbar navbar-expand-md navbar-light bg-white shadow-sm">
-            <div class="container">
+    <div id="app " >
+        <nav class="navbar navbar-expand-md navbar-light bg-white shadow-sm ">
+            <div class="container px-5">
                 <a class="navbar-brand d-flex" href="{{ url('/') }}">
                     <div><img src="/img/735145cfe0a4.png" alt=""></div>
                 </a>
